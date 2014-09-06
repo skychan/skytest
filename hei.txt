@@ -1,2 +1,3 @@
 just a txt file to test if the .gitignore file works.
 add the sun
+add the moon
