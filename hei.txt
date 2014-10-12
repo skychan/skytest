@@ -4,3 +4,4 @@ add the moon
 add the star
 add the earth, dog, cat, tree, leaf, cry ...
 add some other test
+add the other file
